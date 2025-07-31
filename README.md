@@ -28,8 +28,6 @@ Built for cooperative households, HouseBot helps answer questions like:
 
 - `scripts/` – Main logic and utilities (e.g., `housebot.py`)
 - `data/` – Example input files (e.g., `household_budget.csv`)
-- `examples/` – Example Q&A inputs and outputs
-- `images/` – Optional screenshots of sheet layout or summaries
 
 ---
 
