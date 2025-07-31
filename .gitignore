@@ -1,28 +1,28 @@
-# 🔐 Secrets & credentials
+# Secrets & credentials
 .env
 credentials.json
 token.json
 token.pickle
 *.pickle
 
-# 🧹 Python bytecode & cache
+# Python bytecode & cache
 __pycache__/
 *.py[cod]
 *.so
 
-# 📓 Jupyter/Colab notebook artifacts
+# Jupyter/Colab notebook artifacts
 .ipynb_checkpoints/
 
-# 🧪 Local test/output files
+# Local test/output files
 *.log
 *.tmp
 
-# ⚙️ Virtual environments (if you use them)
+# Virtual environments (if you use them)
 .venv/
 env/
 venv/
 
-# 💻 OS and editor files
+# OS and editor files
 .DS_Store
 Thumbs.db
 .vscode/
